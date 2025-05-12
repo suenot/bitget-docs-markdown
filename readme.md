@@ -1,4 +1,5 @@
 # Bitget API v3 Documentation
+[![Context7 Docs](https://badgen.net/badge/Context7/Bitget%20Docs/blue)](https://context7.com/suenot/bitget-docs-markdown)
 
 ## Getting Started
 - [Introduction](./docs/introduction.md)
